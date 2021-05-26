@@ -1,0 +1,50 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #E2EDFF;
+}
+
+#projects {
+    background-color: #E2EDFF;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+h1, h2, p, a, input {
+    font-family: Poppins;
+}
+
+p {
+    font-weight: 300;
+}
+
+.form-label {
+    font-family: Poppins;
+}
+
+footer a {
+    font-weight: 500;
+    color: #FFFFFF;
+    padding: 0px 3px 0px 3px;
+}
+
+footer a:hover {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    color: #0d6efd;
+    text-decoration: none;
+    padding: 0px 3px 0px 3px;
+}
+
+@media only screen and (max-width: 600px) {
+    p {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .navbar-nav {
+        padding: 0% 45% 0% 45%;
+    }
+}
