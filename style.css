@@ -1,3 +1,7 @@
+.nav-link:hover {
+    color: #FFFFFF !important;
+}
+
 .jumbotron {
     padding-top: 6rem;
     background-color: #E2EDFF;
