@@ -5,3 +5,10 @@ Live version: [https://fillahalfatih.github.io/simple-bootstrap-portfolio/](http
 
 ## Author
 - Muhammad Fillah Alfatih - [@fillahalfatih](https://github.com/fillahalfatih)
+
+## Screenshot
+
+![home](https://github.com/fillahalfatih/simple-bootstrap-portfolio/blob/main/screenshot/home.png)
+![about](https://github.com/fillahalfatih/simple-bootstrap-portfolio/blob/main/screenshot/about.png)
+![projects](https://github.com/fillahalfatih/simple-bootstrap-portfolio/blob/main/screenshot/projects.png)
+![contact](https://github.com/fillahalfatih/simple-bootstrap-portfolio/blob/main/screenshot/contact.png)
